@@ -78,7 +78,7 @@ HBTC 资产存在证明
 
 ### 产品化
 
-HBTC 在 PC 端网站上提供了供用户自助验证的页面
+HBTC 在 PC 端网站上提供了供用户自助验证的页面 https://www.hbtc.com/finance/trace_back/BTC
 
 ## 数据示例
 
